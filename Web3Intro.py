@@ -17,11 +17,7 @@ balance_in_ether = balance_in_wei / 10 ** 18
 balance_in_ether_2 = web3.from_wei(balance_in_wei, "ether") # gives result in ether
 
 
-
-
-
-# This is a test
-
+# This is a test 2
 
 # # convert 1 ether to the lowest unit 'Wei'
 # print(Web3.toWei(1,'ether'))
